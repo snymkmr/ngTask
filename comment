@@ -1,0 +1,42 @@
+#	Topic	Problem Statement
+1	Angular Basic Project	Develop a simple Angular project with 2 - 3 components grouping them in a module
+2	Typescript - Interface Inheritance	Write a program to log current date and time. Adopt Interface and inherit it in the implementation class
+3	Typescript - Enum and Generics	Write a simple program to display the day of the week based on the date/ (1 - 7) entered. Pls try to use Enum and Generics to implement the same
+4	Directives	Use ngIF and ngFor directives to display the list of values (list of names & list of account numbers) in a toggled manner
+5	Angular - Data Binding	Write a program for oneway data binding to display an animal image based on the text typed in an input field (or animal name selected from the dropdown)
+6	Angular - Data Binding	Write a program for two way binding within a component to display the uppercase and lower case of the text entered in an input text field
+7	Angular - Component life cycle hooks	"Write a program to display status of the component for the given events and lifecycle hooks:
+1. Create a registration form & on load include list of states and countries, date and time
+2. Include validation on change for certain fields
+3. Enable submit button only upon proper entry in all the fields"
+8	Angular - Component Interaction	Show the list of cars, and upon click of each of the row, display the details of the model in a modal window
+9	Angular - Dependency Injection	Write an angular application, that can provide details of variations of service type for each of the car model. Create multiple modules and access service via a mock JSON server
+10	Business case	Refer the word doc for more details on this business case
+		
+    
+    
+ Sanyam Kumar
+"Completed
+Good Job"
+"Rework required
+
+Though the program looks fine, its not meeting the objective of the problem statement.interface and inheritance approach was not followed"
+"Rework required
+
+Again, couldn't find generics in the program. Pls use generics here along with enum object"
+"Rework required
+
+Same program as Task 01. Pls read the problem statement. It requires values to be displayed in a toggled manner. Here we don’t see any thing as conditional display. You can use custom directives as well here"
+"Completed
+
+Neat Work"
+"Completed
+
+Good"
+Yet to be uploaded
+"Rework required
+Couldn’t find any component Interaction APIs/ annotations here."
+"Rework required
+Same project as earlier. Couldn’t find any service or dependency injection in this package"
+Yet to be uploaded
+ 
